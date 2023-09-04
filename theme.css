@@ -1,0 +1,67 @@
+.body-content {
+  background-image: url("https://www.startpage.com/sp/cdn/images/startpage-night.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: bottom;
+}
+
+.search-input-container {
+  position: relative;
+  width: 100%;
+  color: rgb(235, 236, 247);
+  background-color: rgb(46, 52, 67);
+  border-radius: 2rem !important;
+  border: 1px solid rgb(167, 177, 252) !important;
+  transition-duration: 0.2s;
+  transition-timing-function: ease;
+  transition-delay: 0s;
+  transition-property: border;
+  box-shadow: none;
+}
+
+.auto_suggestions {
+  border: 1px solid rgb(167, 177, 252) !important;
+}
+
+.app-header.app-content-box {
+  background-color: black;
+}
+
+.app-box-center {
+  background-color: #181b24;
+}
+
+.__sri_title_link._0_sri_title_link._0_URL,
+.__srgi-title,
+.__srgi-title ._0_URL {
+  color: #a9b1f6 !important;
+}
+
+#wikipediaResults:has(div) {
+  border: 1px solid #3b435b;
+  border-radius: 10px;
+  padding: 0 1rem;
+  box-sizing: border-box;
+  height: fit-content;
+}
+
+.header_links,
+._0_landing_filters,
+._0_land_cat_box,
+.land_adv_search_btn {
+  display: none !important;
+}
+
+.__ia-body,
+.widgetContent {
+  border: 1px solid #3b435b;
+  border-radius: 4px;
+  background: #1e222d;
+  color: #ebecf7;
+  padding: 1rem;
+}
+
+.orb_chat_footer._0_orb_chat_footer {
+  background-color: transparent;
+}
